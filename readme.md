@@ -6,6 +6,8 @@
 
 [![Contact](https://img.shields.io/badge/Get_in_touch-contact@yaspartame.com-8B5CF6?style=for-the-badge)](mailto:contact@yaspartame.com)
 
+
+![message](https://img.shields.io/badge/BTW-FOSS%20RULES-red?style=for-the-badge)
 </div>
 
 ---
@@ -29,3 +31,7 @@ Hi, I'm Yaspartame. I'm a student majoring in **Database Systems**, and a homela
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<div align="center">
+
+<div align="center>

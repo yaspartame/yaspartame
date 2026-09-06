@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-5BCEFA?style=for-the-badge">
 </div>
 
-[![Contact](https://img.shields.io/badge/Get_in_touch-contact@yaspartame.com-cyan?style=for-the-badge)](mailto:contact@yaspartame.com)
+[![Contact](https://img.shields.io/badge/Get_in_touch-contact@yaspartame.site-cyan?style=for-the-badge)](mailto:contact@yaspartame.site)
 
 [![Website](https://img.shields.io/badge/Know_More-Website-white?style=for-the-badge)](https://yaspartame.site)
 

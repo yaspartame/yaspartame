@@ -18,7 +18,7 @@ Hi, I'm Yaspartame. I'm a student majoring in **Database Systems**, and a homela
 
 | Homelab & Self-Hosting | Game Server Hosting | Developing and Deployment |
 | :--- | :--- | :--- |
-| Multiple headless servers (Arch, Debian); NAS servers, VPN, Proxies, DNS configuration, Containerization | Self-hosted worlds in Minecraft, Factorio, and Project Zomboid. | Experience in using Flask + Docker, Node JS applications, QT6 applications |
+| Multiple headless servers (Arch, Debian); NAS, VPN, Proxies, DNS configuration, Containerization | Self-hosted worlds in Minecraft, Factorio, and Project Zomboid. | Experience in using Flask + Docker, Node JS applications, QT6 applications |
 
 ## Languages
 

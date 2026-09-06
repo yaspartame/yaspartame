@@ -13,6 +13,7 @@
 
 [![Contact](https://img.shields.io/badge/Get_in_touch-contact@yaspartame.com-cyan?style=for-the-badge)](mailto:contact@yaspartame.com)
 
+[![Website](https://img.shields.io/badge/Know_More-Website-white?style=for-the-badge)](https://yaspartame.site)
 
 ![message](https://img.shields.io/badge/BTW-FOSS%20RULES-F5A9B8?style=for-the-badge)
 </div>
@@ -21,13 +22,7 @@
 
 ## Who I Am
 
-Hi, I'm Yaspartame, I go by She/They. I'm a student majoring in **Database Systems**, and a homelabber running multiple headless linux servers.
-
-## What I Do
-
-| Homelab & Self-Hosting | Game Server Hosting | Developing and Deployment |
-| :--- | :--- | :--- |
-| Multiple headless servers (Arch, Debian); NAS, VPN, Proxies, DNS configuration, Containerization | Self-hosted worlds in Minecraft, Factorio, and Project Zomboid. | Experience in using Flask + Docker, Node JS applications, QT6 applications |
+Hi, I'm Yaspartame, I go by She/They.
 
 ## Languages
 

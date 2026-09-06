@@ -3,18 +3,25 @@
 # Yaspartame
 
 **| Database Systems major | Homelabber | Game server host |**
+<div style="line-height: 0; margin: 0; padding: 0;">
+  <img src="https://img.shields.io/badge/⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-5BCEFA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-F5A9B8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-FFFFFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-F5A9B8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-5BCEFA?style=for-the-badge">
+</div>
 
-[![Contact](https://img.shields.io/badge/Get_in_touch-contact@yaspartame.com-8B5CF6?style=for-the-badge)](mailto:contact@yaspartame.com)
+[![Contact](https://img.shields.io/badge/Get_in_touch-contact@yaspartame.com-cyan?style=for-the-badge)](mailto:contact@yaspartame.com)
 
 
-![message](https://img.shields.io/badge/BTW-FOSS%20RULES-red?style=for-the-badge)
+![message](https://img.shields.io/badge/BTW-FOSS%20RULES-F5A9B8?style=for-the-badge)
 </div>
 
 ---
 
 ## Who I Am
 
-Hi, I'm Yaspartame. I'm a student majoring in **Database Systems**, and a homelabber running multiple headless linux servers.
+Hi, I'm Yaspartame, I go by She/They. I'm a student majoring in **Database Systems**, and a homelabber running multiple headless linux servers.
 
 ## What I Do
 

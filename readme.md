@@ -38,7 +38,7 @@ Hi, I'm Yaspartame, I go by She/They. I'm a student majoring in **Database Syste
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![BASH](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![BASH](https://img.shields.io/badge/BASH-grey?style=for-the-badge&logo=gnubash&logoColor=white)
 
 <div align="center">
 

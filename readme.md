@@ -29,9 +29,3 @@ Hi, I'm Yaspartame. I'm a student majoring in **Database Systems**, and a homela
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## Get In Touch
-
-Reach me at [contact@yaspartame.com](mailto:contact@yaspartame.com).

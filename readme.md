@@ -23,6 +23,7 @@
 ## Who I Am
 
 Hi, I'm Yaspartame, I go by She/They.
+I do Qt6 applications, Flask websites, work with docker containers, Node.js applications :3
 
 ## Languages
 

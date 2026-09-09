@@ -18,8 +18,6 @@
 ![message](https://img.shields.io/badge/BTW-FOSS%20RULES-F5A9B8?style=for-the-badge)
 </div>
 
----
-
 ## Who I Am
 
 Hi, I'm Yaspartame, I go by She/They.
